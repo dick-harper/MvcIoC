@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcIoC.Web", "MvcIoC.Web\MvcIoC.Web.csproj", "{498B1751-853C-43AC-9580-1FC0558DBA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcIoC.Web.Tests", "MvcIoC.Web.Tests\MvcIoC.Web.Tests.csproj", "{0E0AF2A6-7CA3-4DBE-B98B-7023104696CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498B1751-853C-43AC-9580-1FC0558DBA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498B1751-853C-43AC-9580-1FC0558DBA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498B1751-853C-43AC-9580-1FC0558DBA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498B1751-853C-43AC-9580-1FC0558DBA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0AF2A6-7CA3-4DBE-B98B-7023104696CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0AF2A6-7CA3-4DBE-B98B-7023104696CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0AF2A6-7CA3-4DBE-B98B-7023104696CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0AF2A6-7CA3-4DBE-B98B-7023104696CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
